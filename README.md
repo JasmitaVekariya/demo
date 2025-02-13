@@ -1,6 +1,6 @@
 # demo
 this is my first project
 <br>
-Author - jasmita
+Author - jasmita(apna college)
 <br>
 use html for readme documentation
